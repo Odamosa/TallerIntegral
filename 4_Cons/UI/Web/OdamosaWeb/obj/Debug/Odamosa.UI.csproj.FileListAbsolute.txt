@@ -1,0 +1,5 @@
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\bin\OdamosaWeb.dll
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\bin\OdamosaWeb.pdb
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\obj\Debug\Odamosa.UI.csprojResolveAssemblyReference.cache
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\obj\Debug\OdamosaWeb.dll
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\obj\Debug\OdamosaWeb.pdb
