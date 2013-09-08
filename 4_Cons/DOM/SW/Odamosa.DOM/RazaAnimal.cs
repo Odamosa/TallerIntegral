@@ -9,7 +9,11 @@ namespace Odamosa.DOM
     {
         #region
 
-        public string nombreRaza2 { get; set; }
+
+      
+
+        public string nombreRaza1 { get; set; }
+
         public int codEspecie { get; set; }
         public String nombreEspecie { get; set; }
         //Nicolas
